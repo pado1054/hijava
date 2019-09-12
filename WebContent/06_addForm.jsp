@@ -10,6 +10,7 @@
 <form action="06_addition.jsp">
 숫자 1 : <input type="text" name="num1"><br>
 숫자 2 : <input type="text" name="num2"><br>
+숫자 3 : 연습~!
 <input type="submit" value="전송">
 </form>
 </body>
